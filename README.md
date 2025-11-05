@@ -22,9 +22,14 @@ The notebook begins with a thorough data preprocessing phase:
 The EDA section investigates:
 - Sales distribution by region, product, and retailer.
 - Revenue and profit trends over time.
-- Correlation analysis between sales-related metrics.
 - Top-performing products and best regions by revenue contribution.
 - Visualizations are built using:
     - matplotlib
     - seaborn
     - pandas plotting functions
+ 
+# Key Insights.
+- The Western region generated the highest overall revenue and profit margins.
+- Men's Street Footwear dominated total sales volume, followed by Women's Apparel
+- In-store retail channels recorded higher transaction counts, while online sales showed strong growth potential.
+- Certain retailers consistently outperformed others, indicating stronger customer engagement or better promotional strategies.
