@@ -7,10 +7,8 @@ This project performs an Exploratory Data Analysis (EDA) on Adidas sales data to
 - Identify relationships between sales volume, profit, price, and marketing costs.
 - Visualize insights using Python data visualization libraries.
 
-# Data Cleaning Steps
-
+# Data Cleaning
 The notebook begins with a thorough data preprocessing phase:
-
 - Extract numeric values from strings (e.g., remove commas, currency symbols, or percentages).
 - Convert columns to appropriate data types:
     - int64 for whole numbers
